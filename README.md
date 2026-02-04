@@ -55,12 +55,6 @@ LangChain • FAISS • Streamlit • Git • GitHub
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautamm-singhh&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/gautammm/
